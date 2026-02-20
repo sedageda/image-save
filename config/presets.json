@@ -96,7 +96,7 @@
   },
   "c_1771601349996": {
     "name": "光影无敌",
-    "suffix": "1.05::masterpiece, best quality, good quality, newest, very aesthetic, amazing quality, highres, ultra detailed, best anatomy, HDR, 8K, high detail RAW color art, high contrast::,\nabsurdres,ultra-high resolution,32K UHD,sharp focus,\nVisual impact,1.2::Visual impact::,1.2::Electromotive force::,1.2::perspective composition::,1.3::A shot with tension::\n{Stunning composition},[torino_aqua], \n artist:yoneyama_mai,artist:miv4t, fajyobore, skyrick9413,1.2::lens flare::,{{{yumenouchi chiharu}}},mochizuki_kei ,[[[[[[rei_(sanbonzakura)]]]]],[artist:rei (sanbonzakura)],artist:dino_(dinoartforame),colorful, vibrant colors,tidy,white light,sidelight,light and shadow,chiaroscuro,intense shadow, 1.2::lens flare::, location",
+    "suffix": "1.05::masterpiece, best quality, good quality, newest, very aesthetic, amazing quality, highres, ultra detailed, best anatomy, high detail RAW color art, high contrast::,\nabsurdres,ultra-high resolution,sharp focus,\nVisual impact,1.2::Visual impact::,1.2::Electromotive force::,1.2::perspective composition::,1.3::A shot with tension::\n{Stunning composition},[torino_aqua], \n artist:yoneyama_mai,artist:miv4t, fajyobore, skyrick9413,1.2::lens flare::,{{{yumenouchi chiharu}}},mochizuki_kei ,[[[[[[rei_(sanbonzakura)]]]]],[artist:rei (sanbonzakura)],artist:dino_(dinoartforame),colorful, vibrant colors,tidy,white light,sidelight,light and shadow,chiaroscuro,intense shadow, 1.2::lens flare::, location",
     "neg": "gracilis, lipstick, lips, muscles, outlines, aged up, old, long neck, long body,big head,rib,nose, tooth, rouge, lipstick, eyeshadow, middle age,adult,mother,mature female, milf, muscles, skinny, outlines,",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
@@ -106,7 +106,7 @@
   },
   "c_1771602163683": {
     "name": "预设2",
-    "suffix": " year 2025,  2::yao liao wang::, 1.5::xilmo::  ,1.1::fkey::, meinoss ,dikko ,1.1::some1else45 ::, akipeko, chuck_(harfmoondark)\n, miv4t，，,::,0.5::wlop::,-2::artist collaboration::,,0.7::solipsist,::\n1.1::impasto,painterly::,,year 2025,   ,year 2024,   \n\n\n.-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， chiaroscuro\nmasterpiece\n\n, cinematic angle,masterpiece，best quality, amazing quality,\nlocation, very aesthetic, masterpiece,,\n, very aesthetic, masterpiece, no text",
+    "suffix": " nsfw, year 2025,  2::yao liao wang::, 1.5::xilmo::  ,1.1::fkey::, meinoss ,dikko ,1.1::some1else45 ::, akipeko, chuck_(harfmoondark)\n, miv4t，，,::,0.5::wlop::,-2::artist collaboration::,,0.7::solipsist,::\n1.1::impasto,painterly::,,year 2025,   ,year 2024,   \n\n\n.-1::ai-generated, ai-assisted, ::\n,-1::unfinished::， chiaroscuro\nmasterpiece\n\n, cinematic angle,masterpiece，best quality, amazing quality,\nlocation, very aesthetic, masterpiece,,\n, very aesthetic, masterpiece, no text",
     "neg": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, ,lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
