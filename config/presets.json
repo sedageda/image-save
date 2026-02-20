@@ -73,5 +73,15 @@
     "scale": 8,
     "smea": false,
     "variety": false
+  },
+  "c_1771597534468": {
+    "name": "亚洲",
+    "suffix": "year 2025,  2::yao liao wang::, 1.5::xilmo::  ,1.1::fkey::, meinoss ,dikko ,1.1::some1else45 ::, akipeko, chuck_(harfmoondark)\n, miv4t，，,::,0.5::wlop::,-2::artist collaboration::,,0.7::solipsist::,\n,,, nsfw, \n1.1::impasto,painterly::,,year 2025,   ,year 2024,   \n\nmasterpiece, best quality, amazing quality, cinematic angle, very aesthetic, no text,\n\n",
+    "neg": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], -1::ai-generated, ai-assisted::, -1::unfinished::",
+    "sampler": "k_dpmpp_2m_sde",
+    "steps": 28,
+    "scale": 8,
+    "smea": false,
+    "variety": false
   }
 }
