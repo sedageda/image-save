@@ -83,5 +83,15 @@
     "scale": 8,
     "smea": false,
     "variety": false
+  },
+  "c_1771598678724": {
+    "name": "冷",
+    "suffix": " year 2025,  2::yao liao wang::, 1.5::xilmo::  ,1.1::fkey::, meinoss ,dikko ,1.1::some1else45 ::, akipeko, chuck_(harfmoondark)\n, miv4t，，,::,0.5::wlop::,-2::artist collaboration::,,0.7::solipsist,::\n1.1::impasto,painterly::,,year 2025,   ,year 2024，\n\n\nmasterpiece,,\n,, beautiful colors,, detailed background,,, ray tracing, \namazing quality, better quality, Cinematic Lighting, cinematic angle,  rating:general, best quality, very aesthetic, absurdres\n\n, very aesthetic, location, masterpiece, no text, -0.8::feet::, rating:general, very aesthetic, masterpiece, no text",
+    "neg": "nsfw, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, thick lips, ai-generated, ai-assisted, flat color, noise, blurry, lowres, bad, error, fewer, extra, lowres, bad, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract,",
+    "sampler": "k_dpmpp_2m_sde",
+    "steps": 28,
+    "scale": 8,
+    "smea": false,
+    "variety": false
   }
 }
