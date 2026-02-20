@@ -60,8 +60,18 @@
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, deformed, ugly, mutilated, disfigured, mutated hands, poorly drawn hands, poorly drawn face, mutation, extra limbs, cloned face, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, (censored, mosaic censoring, bar censor:1.5), monochrome, greyscale, overexposed, underexposed, flat lighting, harsh shadows",
     "sampler": "k_euler_ancestral",
     "steps": 28,
+    "scale": 7,
+    "smea": false,
+    "variety": false
+  },
+  "c_1771584184975": {
+    "name": "开启",
+    "suffix": "nsfw, ahegao, small breasts, shiny skin, glossy skin, detailed skin texture, ultra-detailed body, intricate details, pussy, uncensored, detailed vagina, labia, clitoris, squirting, pussy juice, fluid spray, wet pussy, glistening, masterpiece, best quality, highly detailed, ultra-detailed, highres, absurdres, dynamic lighting, soft shadows, beautiful lighting, volumetric lighting, ray tracing, detailed shadows, hyperrealistic lighting, {{{masterpiece}}}, {best quality}",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, deformed, ugly, mutilated, disfigured, mutated hands, poorly drawn hands, poorly drawn face, mutation, extra limbs, cloned face, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, (censored, mosaic censoring, bar censor:1.5), monochrome, greyscale, overexposed, underexposed, flat lighting, harsh shadows",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
     "scale": 8,
-    "smea": true,
+    "smea": false,
     "variety": false
   }
 }
