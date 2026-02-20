@@ -56,8 +56,8 @@
   },
   "c_1771571913676": {
     "name": "grok",
-    "suffix": "sfw, shiny skin, glossy skin, detailed skin texture, ultra-detailed body, intricate details, masterpiece, best quality, highly detailed, ultra-detailed, highres, absurdres, dynamic lighting, soft shadows, beautiful lighting, volumetric lighting, ray tracing, detailed shadows, hyperrealistic lighting, {{by shanyao jiang tororo}}, {{by happoubi jin}}",
-    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, deformed, ugly, mutilated, disfigured, mutated hands, poorly drawn hands, poorly drawn face, mutation, extra limbs, cloned face, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, (censored, mosaic censoring, bar censor:1.5), monochrome, greyscale, overexposed, underexposed, flat lighting, harsh shadows",
+    "suffix": "nsfw, volumetric lighting, subsurface scattering, realistic shading, detailed material texture, 3d-like rendering, depth of field, cute face, detailed face, refined facial features, delicate hair strands, airy hair, soft natural lighting, subtle highlights, soft shadows, ethereal glow, misty atmosphere, clean lines, pastel colors, translucent skin, subtle gloss on skin, detailed but light textures, pure and fresh style, intricate details without heaviness, highres, masterpiece, best quality, ultra-detailed, pixiv style, anime illustration, {{by fal maro}}, {{by kirisawa toko}}",
+    "neg": "lowres, bad anatomy, worst quality, low quality, blurry, deformed, flat shading, no depth, paper thin, 2d only, old anime style, 2000s style, heavy lines, thick outlines, no volume, greasy texture, harsh lighting, overexposed, underexposed, monochrome, pixelated, artifacts",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 7,
