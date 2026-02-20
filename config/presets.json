@@ -56,11 +56,11 @@
   },
   "c_1771571913676": {
     "name": "grok",
-    "suffix": "nsfw, volumetric lighting, subsurface scattering, realistic shading, detailed material texture, 3d-like rendering, depth of field, cute face, detailed face, refined facial features, delicate hair strands, airy hair, soft natural lighting, subtle highlights, soft shadows, ethereal glow, misty atmosphere, clean lines, pastel colors, translucent skin, subtle gloss on skin, detailed but light textures, pure and fresh style, intricate details without heaviness, highres, masterpiece, best quality, ultra-detailed, pixiv style, anime illustration, {{by fal maro}}, {{by kirisawa toko}}",
-    "neg": "lowres, bad anatomy, worst quality, low quality, blurry, deformed, flat shading, no depth, paper thin, 2d only, old anime style, 2000s style, heavy lines, thick outlines, no volume, greasy texture, harsh lighting, overexposed, underexposed, monochrome, pixelated, artifacts",
+    "suffix": "nsfw, detailed anime face, modern anime aesthetics, sharp eyes, smooth facial features, cute and refined face, genshin impact style, volumetric lighting, subsurface scattering, realistic anime shading, detailed volume, depth of field, soft natural lighting, subtle highlights, soft shadows, ethereal glow, misty atmosphere, clean lines, pastel colors, translucent skin with depth, intricate body details, highres, masterpiece, best quality, ultra-detailed, {{by ainiwaffles}}, {{by shiromizakana}}",
+    "neg": "lowres, bad anatomy, worst quality, low quality, blurry, deformed, flat shading, no depth, paper thin, old anime style, 2000s style, heavy lines, thick outlines, no volume, greasy texture, harsh lighting, overexposed, underexposed, monochrome, pixelated, artifacts, old anime style, low depth",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 7,
+    "scale": 8,
     "smea": false,
     "variety": false
   },
