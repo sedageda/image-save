@@ -56,11 +56,11 @@
   },
   "c_1771571913676": {
     "name": "grok",
-    "suffix": "nsfw,masterpiece, best quality, highly detailed, ultra-detailed, highres, absurdres, beautiful lighting, intricate details, dynamic lighting, soft shadows,{{by noise}},{{by atdan}}",
-    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, deformed, ugly, mutilated, disfigured, mutated hands, poorly drawn hands, poorly drawn face, mutation, extra limbs, cloned face, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, (censored, mosaic censoring, bar censor:1.5)",
+    "suffix": "nsfw, small breasts, shiny skin, glossy skin, detailed skin texture, ultra-detailed body, intricate details, uncensored, masterpiece, best quality, highly detailed, ultra-detailed, highres, absurdres, dynamic lighting, soft shadows, beautiful lighting, volumetric lighting, ray tracing, detailed shadows, hyperrealistic lighting, {{by shanyao jiang tororo}}, {{by happoubi jin}}",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, deformed, ugly, mutilated, disfigured, mutated hands, poorly drawn hands, poorly drawn face, mutation, extra limbs, cloned face, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, (censored, mosaic censoring, bar censor:1.5), monochrome, greyscale, overexposed, underexposed, flat lighting, harsh shadows",
     "sampler": "k_euler_ancestral",
-    "steps": 30,
-    "scale": 7.5,
+    "steps": 28,
+    "scale": 8,
     "smea": false,
     "variety": false
   }
