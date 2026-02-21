@@ -80,7 +80,7 @@
     "neg": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], -1::ai-generated, ai-assisted::, -1::unfinished::, warm lighting, over saturated, vibrant colors, yellow tint, orange glow, heavy contrast, oily skin, warm lighting, over saturated, vibrant colors, yellow tint, orange glow, blue tint, cyan cast, cold tones, heavy blue filter, desaturated too much, grayish, dull colors",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
-    "scale": 8,
+    "scale": 6,
     "smea": false,
     "variety": false
   },
@@ -90,7 +90,7 @@
     "neg": "blurry, lowres, error, worst quality, bad quality, jpeg artifacts, very displeasing",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
-    "scale": 8,
+    "scale": 6,
     "smea": false,
     "variety": false
   },
@@ -100,7 +100,7 @@
     "neg": "gracilis, lipstick, lips, muscles, outlines, aged up, old, long neck, long body,big head,rib,nose, tooth, rouge, lipstick, eyeshadow, middle age,adult,mother,mature female, milf, muscles, skinny, outlines,",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
-    "scale": 8,
+    "scale": 6,
     "smea": false,
     "variety": false
   },
@@ -110,7 +110,7 @@
     "neg": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, ,lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
     "sampler": "k_dpmpp_2m_sde",
     "steps": 28,
-    "scale": 8,
+    "scale": 6,
     "smea": false,
     "variety": false
   },
@@ -120,7 +120,7 @@
     "neg": "lowres, worst quality, bad quality, bad anatomy, text, error, extra digit, cropped, jpeg artifacts, censored, displeasing, multiple girls, large breasts, smile, blurry, deformed, ugly, extra limbs, poorly drawn hands, poorly drawn face, mutation, shoes",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 8,
+    "scale": 5,
     "smea": false,
     "variety": false
   },
