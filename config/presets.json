@@ -123,5 +123,15 @@
     "scale": 8,
     "smea": false,
     "variety": false
+  },
+  "c_1771681822973": {
+    "name": "Gai生成",
+    "suffix": "1.1::hashibiro_kou_(garapiko_p)::, akifn,\n\nnatural lighting, soft natural light, gentle diffused lighting, natural daylight, balanced colors, subtle highlights, clean soft tones, fresh atmosphere, detailed skin texture, smooth skin, glossy skin subtly, ultra-detailed skin, intricate skin details,\n\n\nmasterpiece, best quality, very aesthetic, absurdres, highres, detailed background, no text",
+    "neg": "lowres, worst quality, low quality, bad quality, bad anatomy, jpeg artifacts, watermark, text, signature, username, error, missing fingers, extra digit, fewer digits, cropped, blurry, deformed, ugly, mutated, extra limbs, poorly drawn hands, poorly drawn face, mutation, extra arms, extra legs, fused fingers, too many fingers, long neck, over saturated, harsh lighting, flat lighting, no shadows, outline only, lack of depth, no shading, paper thin, 2d flat, censored, mosaic censoring, bar censor",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 5,
+    "smea": false,
+    "variety": false
   }
 }
