@@ -113,5 +113,15 @@
     "scale": 8,
     "smea": false,
     "variety": false
+  },
+  "c_1771659787909": {
+    "name": "碧蓝",
+    "suffix": "nsfw, year 2025,  2::yao liao wang::, 1.5::xilmo::  ,1.1::fkey::, meinoss ,dikko ,1.1::some1else45 ::, akipeko, chuck_(harfmoondark)\n, miv4t，，,::,0.5::wlop::,-2::artist collaboration::,,0.7::solipsist::,\n1.1::impasto,painterly::,,year 2025,   ,year 2024，\n\n\nmasterpiece, best quality, very aesthetic, absurdres, no text, rating:general",
+    "neg": "lowres, worst quality, bad quality, bad anatomy, text, error, extra digit, cropped, jpeg artifacts, censored, displeasing, multiple girls, large breasts, smile, blurry, deformed, ugly, extra limbs, poorly drawn hands, poorly drawn face, mutation, shoes",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 8,
+    "smea": false,
+    "variety": false
   }
 }
